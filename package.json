@@ -20,6 +20,6 @@
     "@types/google-apps-script": "0.0.62"
   },
   "devDependencies": {
-    "@google/clasp": "^2.3.0"
+    "@google/clasp": "2.3.0"
   }
 }
