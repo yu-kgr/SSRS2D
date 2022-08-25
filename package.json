@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/yu-kgr/salmon-schedule#readme",
   "dependencies": {
-    "@types/google-apps-script": "0.0.62"
+    "@types/google-apps-script": "1.0.55"
   },
   "devDependencies": {
     "@google/clasp": "^2.3.0"
